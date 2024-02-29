@@ -5,7 +5,7 @@ import { useEffect } from 'react';
 function App() {
 
   useEffect(() => {
-    window.location.replace("https://efizzy.houseofpraise.ca/");
+    // window.location.replace("https://efizzy.houseofpraise.ca/");
   }, []);
 
 
